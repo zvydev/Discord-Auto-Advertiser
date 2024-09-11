@@ -18,6 +18,3 @@ Advertise your discord trades/deals at ease
 > + Unlimited channel IDs
 > + Built-in status / custom status changer
 > + Built-in onliner
-
-## To Skids
-> + If you're going to skid, at least leave a star for my efforts.
