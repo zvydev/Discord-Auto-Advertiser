@@ -1,4 +1,4 @@
-import requests, json, time, os, websocket, threading, ssl, sys, select, datetime
+import automsg, requests, json, time, os, websocket, threading, ssl, sys, select, datetime
 from colorama import Fore, Back, Style
 
 # Check for config & tokens
