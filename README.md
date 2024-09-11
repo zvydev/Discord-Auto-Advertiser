@@ -16,3 +16,5 @@ Advertise your discord trades/deals at ease
 > + Unlimited channel IDs
 > + Built-in status / custom status changer
 > + Built-in onliner
+
+# If you've achieved success using our tool, donations are appreciated! : bc1qdsl5p0t9hcqgxfcn2a5h7p4d6a9zndfntegasr
