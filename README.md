@@ -2,7 +2,7 @@ Advertise your discord trades/deals at ease
 
 # Discord Auto Advertiser
 > + The fastest, most feature-packed, "Discord Auto Advertiser" to exist.
-> + Will create a Discord Bot version of it if a lot of people are using it. 
+> + This bot will automatically promote your trade ads in multiple servers, helping you find deals quickly
 
 ## How To Run
 > 1) Disable any antivirus software (You may run this code through any virustotal scan, it is 100% safe. Antivirus must be off due to excess interaction with discord's API which gets flagged)
